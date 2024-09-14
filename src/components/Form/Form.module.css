@@ -1,9 +1,10 @@
 .formContainer{
-  background-color: beige;
+  background-color: rgb(241, 241, 241);
   padding: 20px;
   border-radius: 4px;
   border: 1px solid var(--corPrimaria);
   text-align: center;
+  width: 100%;
 }
 
 .formContainer p{
