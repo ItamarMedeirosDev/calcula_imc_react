@@ -1,0 +1,32 @@
+.formContainer{
+  background-color: beige;
+  padding: 20px;
+  border-radius: 4px;
+  border: 1px solid var(--corPrimaria);
+  text-align: center;
+}
+
+.formContainer p{
+  margin-top: 20px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--corSecundaria);
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  
+  
+}
+
+.label{
+  margin-right: 8px;
+  font-weight: bold;
+  color: var(--corSecundaria);
+}
+
+.input{
+  padding: 4px;
+}
